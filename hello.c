@@ -1,10 +1,3 @@
-#if 0
-	shc Version 4.0.3, Generic Shell Script Compiler
-	GNU GPL Version 3 Md Jahidul Hamid <jahidulhamid@yahoo.com>
-
-	shc -v -r -f script.sh 
-#endif
-
 static  char data [] = 
 #define      msg1_z	65
 #define      msg1	((&data[12]))
